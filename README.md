@@ -1,7 +1,6 @@
 # acprojects
 #Recurrent Neural Net
 
-Report for Assignment 4:
 Architecture:
 Pre-processing:
 -First, we begin with loading the ‘tiny-shakespeare.txt’ document for preprocessing. We use load_doc function for that.
